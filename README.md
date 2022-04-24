@@ -1,11 +1,12 @@
 # BeatTheMonsters
-ゲームURL:https://xenodochial-kilby-6965a8.netlify.app/
+![7](https://user-images.githubusercontent.com/89173987/144360646-42c94374-b882-4a23-8fbe-7033ff691a98.jpg)
 
+## URL
+ゲームURL:https://xenodochial-kilby-6965a8.netlify.app/
 開発レポジトリ,セットアップマニュアル： https://github.com/igakilab/team_Jiwa
 
-# ユーザマニュアル
-
-## ルール
+## ユーザマニュアル
+### ルール
 
 * 襲い掛かってくるモンスターを薙ぎ払うゲームです。
 * ステージは３つあります。制限時間はステージ１から順に60秒、90秒、120秒となりプレイヤーはそのうちの１つを選んでプレイします。
