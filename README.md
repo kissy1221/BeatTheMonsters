@@ -1,9 +1,9 @@
 # BeatTheMonsters
-![7](https://user-images.githubusercontent.com/89173987/144360646-42c94374-b882-4a23-8fbe-7033ff691a98.jpg)
+![title](https://user-images.githubusercontent.com/89173987/143883724-bc29719b-df47-4ba0-92d4-7ecaa548351f.jpg)
 
 ## URL
-ゲームURL:https://xenodochial-kilby-6965a8.netlify.app/
-開発レポジトリ,セットアップマニュアル： https://github.com/igakilab/team_Jiwa
+*ゲームURL:https://xenodochial-kilby-6965a8.netlify.app/
+*開発レポジトリ,セットアップマニュアル： https://github.com/igakilab/team_Jiwa
 
 ## ユーザマニュアル
 ### ルール
